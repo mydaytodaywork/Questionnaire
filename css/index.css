@@ -1,0 +1,33 @@
+.top-container{
+	padding-left:130px;
+	padding-right:130px;
+	width:800px;
+	margin-left:210px;
+	background-color:#FF9;	
+}
+.col1
+{
+	width:40%;
+	font-size:20px;
+	margin-top:2%;
+	height:40px;
+}
+.col1
+{
+	width:60%;
+    margin-top:2%;
+	height:40px;
+}
+.input{
+	height:30px;	
+}
+.txt{
+	font-size:20px;	
+}
+.yearofesta{
+	margin-left:50px;
+}
+#submit{
+	height:40px;
+	width:800px;	
+}
